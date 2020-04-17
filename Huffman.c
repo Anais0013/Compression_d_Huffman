@@ -3,7 +3,7 @@
 *       OUEDRAOGO Narelba Abdoul Razac Christian
 *       KHADIJA Lahlou
 *       El HARRADE Mejdy
-*		GIANNUZZI Anaïs
+*	GIANNUZZI Anaïs
 *	Inspiré par : http://projet.eu.org/pedago/sin/term/5-huffman.pdf?fbclid=IwAR01vb8SeW2LP2_74V0DIZLMIys88aHcsY_mLF6f-6noP6ylKOHzNXG8Qmk
 *
 *   Fichié: Huffman.c
